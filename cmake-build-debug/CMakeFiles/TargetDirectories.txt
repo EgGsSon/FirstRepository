@@ -1,3 +1,0 @@
-/Users/dastardmoron/CLionProjects/WordCont/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/dastardmoron/CLionProjects/WordCont/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/dastardmoron/CLionProjects/WordCont/cmake-build-debug/CMakeFiles/WordCont.dir
